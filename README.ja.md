@@ -1,5 +1,8 @@
 # Ashby Jobs Scraper — 使用例
 
+[![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-ashby-jobs-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-ashby-jobs-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 任意のAshby求人ボードから、指定日または期間（24時間・7日・30日）以降の新着求人。
 
 このActorは**あなた自身の**Apifyアカウント（APIトークンまたはOAuth）で実行します。利用料はApifyの無料または有料プランであなたに課金されます。

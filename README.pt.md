@@ -1,5 +1,8 @@
 # Ashby Jobs Scraper — exemplos
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-ashby-jobs-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-ashby-jobs-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Novas vagas de qualquer quadro Ashby desde uma data ou janela (24h, 7d, 30d).
 
 O Actor corre na **sua** conta Apify (token de API ou OAuth). O uso é cobrado a si, no plano gratuito ou pago da Apify.
